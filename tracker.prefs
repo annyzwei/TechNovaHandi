@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.cabrillo.tracker.Tracker$Preferences">
+    <property name="xuggle_smooth" type="boolean">true</property>
+    <property name="tracker_jar" type="string">tracker.jar</property>
+    <property name="cache" type="string">C:\Users\Anny\AppData\Local\OSP\Cache</property>
+    <property name="upgrade_interval" type="int">0</property>
+    <property name="last_checked" type="int">1640385417</property>
+    <property name="file_chooser_directory" type="string">D:/Anny/School 2021-2022/phys</property>
+    <property name="recent_files" type="collection" class="java.util.ArrayList">
+        <property name="item" type="string">D:/Anny/School 2021-2022/phys/10k.MOV</property>
+        <property name="item" type="string">D:/Anny/School 2021-2022/phys/10j.MOV</property>
+        <property name="item" type="string">D:/Anny/School 2021-2022/phys/10i.MOV</property>
+        <property name="item" type="string">D:/Anny/School 2021-2022/phys/10h.MOV</property>
+        <property name="item" type="string">D:/Anny/School 2021-2022/phys/10g.MOV</property>
+        <property name="item" type="string">D:/Anny/School 2021-2022/phys/10f.MOV</property>
+    </property>
+</object>
